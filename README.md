@@ -4,6 +4,6 @@
 - 👀 Eu estou interessada em aprender a programar novas linguagens.
 - 🌱 Eu estou recentemente aprendendo a programar a linguagem Scratch e Java Script.
 - 💞️ A linguagem Java Script estou tendo que me dedicar bastante para entende la. 
-- 📫 Eu sou do NRE de Assis Chateaubriand
+- 📫 Eu de Assis Chateaubriand
 
 
