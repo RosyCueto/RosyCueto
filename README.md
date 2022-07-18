@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @RosyCueto
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## Sobre mim
+- 👋 Olá, eu sou  @RosyCueto
+- :+1: Meu email de contato é rosymeire.cueto@escola.pr.gov.br
+- 👀 Eu estou interessada em aprender a programar novas linguagens.
+- 🌱 Eu estou recentemente aprendendo a programar a linguagem Scratch e Java Script.
+- 💞️ A linguagem Java Script estou tendo que me dedicar bastante para entende la. 
+- 📫 Eu sou do NRE de Assis Chateaubriand
 
-<!---
-RosyCueto/RosyCueto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
